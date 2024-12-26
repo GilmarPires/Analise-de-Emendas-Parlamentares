@@ -8,9 +8,9 @@ Para renderizar o relatório RMarkdown, certifique-se de ter o R e o RStudio ins
 
 ## Estrutura do Repositório
 
-- `relatorio.Rmd`: O arquivo RMarkdown com a análise.
+- `Analise_Emendas_Parlamentares.Rmd`: O arquivo RMarkdown.
 - `dados/`: Diretório que contém os arquivos de dados utilizados na análise.
-- `scripts/`: Scripts R adicionais utilizados no projeto.
+- `Analise_Emendas_Parlamentares.html/`: Relatório RMarkedow com os gráficos, comentários e os códigos do projeto.
 
 ## Autor
 
