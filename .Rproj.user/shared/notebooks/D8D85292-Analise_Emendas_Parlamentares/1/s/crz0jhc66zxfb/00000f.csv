@@ -1,0 +1,13 @@
+"0","# Criar o gráfico de barras"
+"0","# Criar o gráfico de barras com os 30 maiores valores"
+"0","Politico %>%"
+"0","  group_by(Autor) %>%"
+"0","  summarise(total_emendas = sum(Valor, na.rm = TRUE)) %>%"
+"0","  top_n(30, total_emendas) %>%"
+"0","  ggplot(aes(x = reorder(Autor, total_emendas), y = total_emendas)) +"
+"0","  geom_col() +"
+"0","  coord_flip() +"
+"0","  labs(x = ""Político"", y = ""Valor (Milhões de R$)"", title = ""Valor Total das Emendas por Político"") +"
+"0","  theme_minimal()"
+"2","Erro: objeto 'Politico' não encontrado
+"

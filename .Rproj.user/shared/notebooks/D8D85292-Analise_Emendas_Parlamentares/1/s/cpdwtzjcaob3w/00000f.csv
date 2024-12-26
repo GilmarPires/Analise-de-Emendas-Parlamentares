@@ -1,0 +1,8 @@
+"0","# Caminho para o arquivo baixado"
+"0","file_path <- ""Planilha_Emendas_ao_OGU_2024 - V1. Dados Abertos.xlsx"""
+"0",""
+"0","# Ler a planilha do Excel, pulando a primeira linha"
+"0","df <- read_excel(file_path, skip = 1)"
+"0",""
+"0","# Verificar as primeiras linhas do data frame para garantir que o cabeçalho está correto"
+"0","head(df)"

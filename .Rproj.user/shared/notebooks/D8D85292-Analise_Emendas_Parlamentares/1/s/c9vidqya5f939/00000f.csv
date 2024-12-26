@@ -1,0 +1,7 @@
+"0",""
+"0","file_path <- ""Planilha_Emendas_ao_OGU_2024 - V1. Dados Abertos.xlsx"""
+"0",""
+"0",""
+"0","df <- read_excel(file_path, skip = 1)"
+"0",""
+"0","head(df)"
