@@ -268,7 +268,7 @@ grid.arrange(p, table_grob, ncol = 1, heights = c(2, 1))
 
 ## Conclusão
 
-Com base nesses dados podemos concluir que, esta pasta do Governo Federal destina a maior parte dos recursos das emendas parlamentares para instituições privadas sem fins lucrativos, com destaque para a área de **Sec. Nac. dos Direitos das Pessoas LGBTQIA+** que recebeu o maior valor total em milhões de R$, o que acaba de beneficiar as instituições ligadas a essa pauta, recebendo mais recursos inclusive, do que a pauta dos direitos de crianças e dos adolescentes e a pauta dos direitos da pessoa idosa.  
+Com base nesses dados podemos concluir que, esta pasta do Governo Federal destina a maior parte dos recursos das emendas parlamentares para instituições privadas sem fins lucrativos, com destaque para a área de **Sec. Nac. dos Direitos das Pessoas LGBTQIA+** que recebeu o maior valor total em milhões de R$ em 2024, o que acaba de beneficiar as instituições ligadas a essa pauta, recebendo mais recursos inclusive, do que a pauta dos direitos de crianças e dos adolescentes e a pauta dos direitos da pessoa idosa.  
 
 
 ### Fonte dos Dados
